@@ -1,0 +1,36 @@
+body{
+    background: lightcyan;
+}
+.header__titulo{
+    text-align: center;
+    font-family:fantasy;
+    letter-spacing: 2.0px;
+    text-transform: uppercase;
+}
+.tarjeta{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjeta__item{
+    border-radius: 8px;
+    border: 2px solid #000;
+    padding: 30px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: #000;
+}
+
+.tarjeta__item:nth-child(2n+1){
+    color: white;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.tarjeta__item-link{
+    text-decoration: none;
+    font-size: 30px;
+    color: darkred;
+}
+
