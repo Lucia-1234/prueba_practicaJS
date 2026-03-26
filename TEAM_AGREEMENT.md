@@ -5,7 +5,7 @@ Este documento establece las reglas de convivencia, comunicación y estándares 
 ## 1. Miembros del Equipo y Roles
 | Nombre | Rol | Usuario de GitHub |
 | :--- | :--- | :--- |
-| [Nombre del Aprendiz 1] | Líder (Arquitecto) | `@usuario1` |
+| [Adriana Lucia Lizcano Almeida] | Líder (Arquitecto) | `@Lucia-1234` |
 | [Nombre del Aprendiz 2] | Desarrollador | `@usuario2` |
 | [Sol Angy Valentina Serrano Quintero] | Desarrollador | `@valentinaserrano20` |
 
